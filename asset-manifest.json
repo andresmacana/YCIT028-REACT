@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/YCIT028-REACT/static/css/main.f5b26dd9.css",
-    "main.js": "/YCIT028-REACT/static/js/main.04f1286c.js",
-    "index.html": "/YCIT028-REACT/index.html",
-    "main.f5b26dd9.css.map": "/YCIT028-REACT/static/css/main.f5b26dd9.css.map",
-    "main.04f1286c.js.map": "/YCIT028-REACT/static/js/main.04f1286c.js.map"
+    "main.css": "/andresmacana/YCIT028-REACT/static/css/main.f5b26dd9.css",
+    "main.js": "/andresmacana/YCIT028-REACT/static/js/main.04f1286c.js",
+    "index.html": "/andresmacana/YCIT028-REACT/index.html",
+    "main.f5b26dd9.css.map": "/andresmacana/YCIT028-REACT/static/css/main.f5b26dd9.css.map",
+    "main.04f1286c.js.map": "/andresmacana/YCIT028-REACT/static/js/main.04f1286c.js.map"
   },
   "entrypoints": [
     "static/css/main.f5b26dd9.css",
